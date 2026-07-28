@@ -8,3 +8,5 @@ this is for testing
 ## testing 2 
 ## Gist
 This is an example of [my code](https://gist.github.com/JamieLau-118/682f65a4ac532d56b64be29d93d91f85)
+## Colab
+This is the [notebook](https://github.com/JamieLau-118/testing/blob/main/Welcome_To_Colab.ipynb)
